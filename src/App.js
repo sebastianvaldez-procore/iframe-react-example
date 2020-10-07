@@ -8,16 +8,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Procore embbeded iFrame create-react-app example
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <small>This was deployed to gh-pages</small>
+      <p>
+        My github: 
+        <a href='https://github.com/sebastianvaldez-procore' _target='blank' alt='Github User pages'>sebastianvaldez-procore.com</a>
+      </p>
       </header>
     </div>
   );
