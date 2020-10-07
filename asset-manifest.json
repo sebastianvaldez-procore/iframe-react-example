@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iframe-react-example/static/css/main.5f361e03.chunk.css",
+    "main.js": "/iframe-react-example/static/js/main.708b3c4d.chunk.js",
+    "main.js.map": "/iframe-react-example/static/js/main.708b3c4d.chunk.js.map",
+    "runtime-main.js": "/iframe-react-example/static/js/runtime-main.7cbbff00.js",
+    "runtime-main.js.map": "/iframe-react-example/static/js/runtime-main.7cbbff00.js.map",
+    "static/js/2.b2293e2d.chunk.js": "/iframe-react-example/static/js/2.b2293e2d.chunk.js",
+    "static/js/2.b2293e2d.chunk.js.map": "/iframe-react-example/static/js/2.b2293e2d.chunk.js.map",
+    "index.html": "/iframe-react-example/index.html",
+    "precache-manifest.abc57f50699bbd9be1727da75221a409.js": "/iframe-react-example/precache-manifest.abc57f50699bbd9be1727da75221a409.js",
+    "service-worker.js": "/iframe-react-example/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/iframe-react-example/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b2293e2d.chunk.js.LICENSE.txt": "/iframe-react-example/static/js/2.b2293e2d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/iframe-react-example/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cbbff00.js",
+    "static/js/2.b2293e2d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.708b3c4d.chunk.js"
+  ]
+}
